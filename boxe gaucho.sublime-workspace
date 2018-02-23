@@ -1,0 +1,2027 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"formal",
+				"formalGreeting"
+			],
+			[
+				"greeting",
+				"greeting"
+			],
+			[
+				"formar",
+				"formalGreeting"
+			],
+			[
+				"ng-s",
+				"ng-show\tAngularJS"
+			],
+			[
+				"ng-",
+				"ng-change\tAngularJS"
+			],
+			[
+				"pos",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"cadas",
+				"cadastrarEvento"
+			],
+			[
+				"cads",
+				"cadastrarEvento"
+			],
+			[
+				"re",
+				"requires\t@requires"
+			],
+			[
+				"editar",
+				"editarEvento"
+			],
+			[
+				"c",
+				"css/"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"inc",
+				"incl1\tinclude_once …"
+			],
+			[
+				"bs3",
+				"bs3-tabs\tbs3-tabs"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"cur",
+				"cur-p\tcursor: pointer;"
+			],
+			[
+				"bs3-table",
+				"bs3-table:hover\tbs3-table-hover"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"last-c",
+				"nth-last-column()"
+			],
+			[
+				"serv",
+				"serv_aniv_infantil.jpg\tw:4077 h:2718"
+			],
+			[
+				"bg",
+				"background"
+			],
+			[
+				"incl",
+				"includes/"
+			],
+			[
+				"val",
+				"value\tAttr"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"trna",
+				"transparent"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"bs3gl",
+				"bs3-icon:glyphicon\tbs3-icon-glyphicon"
+			],
+			[
+				"bgco",
+				"background-color"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"ls",
+				"letter-spacing"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"bgr",
+				"bgr-n\tbackground-repeat: no-repeat;"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bs3-nav",
+				"bs3-navbar:responsive\tbs3-navbar-responsive"
+			],
+			[
+				"carda",
+				"cardapios"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ngin",
+				"ng-init\tAngularJS"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"com",
+				"complementos"
+			],
+			[
+				"co",
+				"complementos"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"valu",
+				"ng-value\tAngularJS"
+			],
+			[
+				"itens",
+				"itensCarrinho"
+			],
+			[
+				"ng-bin",
+				"ng-bind\tAngularJS"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"module",
+				"angular.module"
+			],
+			[
+				"bs3navres",
+				"bs3-navbar:responsive\tbs3-navbar-responsive"
+			],
+			[
+				"idcon",
+				"idcontatos"
+			],
+			[
+				"bs3-tabe",
+				"bs3-table:striped\tbs3-table-striped"
+			],
+			[
+				"listar",
+				"listarContato"
+			],
+			[
+				"ng-c",
+				"ng-click\tAngularJS"
+			],
+			[
+				"ngi",
+				"ng-init\tAngularJS"
+			],
+			[
+				"que",
+				"queueSaved"
+			],
+			[
+				"Que",
+				"queue"
+			],
+			[
+				"ng-op",
+				"ng-options\tAngularJS"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"$locati",
+				"$location\tAngularJS"
+			],
+			[
+				"responsa",
+				"responsavel"
+			],
+			[
+				"respos",
+				"responsavel"
+			],
+			[
+				"respo",
+				"responsaveis"
+			],
+			[
+				"respons",
+				"responsavel"
+			],
+			[
+				"responsave",
+				"responsaveis"
+			],
+			[
+				"ima",
+				"imagemDirective.js"
+			],
+			[
+				"con",
+				"imagemController.js"
+			],
+			[
+				"a",
+				"angular-file-upload.min.js"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"ng-cl",
+				"ng-click\tAngularJS"
+			],
+			[
+				"me",
+				"menu_user.php"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysqlnum",
+				"mysql_num_rows"
+			],
+			[
+				"bs3-a",
+				"bs3-alert:warning\tbs3-alert-warning"
+			],
+			[
+				"bs3-ico",
+				"bs3-icon:glyphicon\tbs3-icon-glyphicon"
+			],
+			[
+				"Sess",
+				"session_destroy"
+			],
+			[
+				"bs3-na",
+				"bs3-navbar:responsive\tbs3-navbar-responsive"
+			],
+			[
+				"bs3-aler",
+				"bs3-alert:warning\tbs3-alert-warning"
+			],
+			[
+				"bs3-gly",
+				"bs3-icon:glyphicon\tbs3-icon-glyphicon"
+			],
+			[
+				"bs3-navri",
+				"bs3-navbar:responsive\tbs3-navbar-responsive"
+			],
+			[
+				"Cl",
+				"ClassA"
+			],
+			[
+				"m",
+				"m\tmethod"
+			],
+			[
+				"ng-key",
+				"ng-keyup\tAngularJS"
+			],
+			[
+				"ng-re",
+				"ng-repeat\tAngularJS"
+			],
+			[
+				"usua",
+				"usuario"
+			],
+			[
+				"mesage",
+				"mensagem"
+			],
+			[
+				"mensage",
+				"mensagens"
+			],
+			[
+				"$loca",
+				"$location\tAngularJS"
+			],
+			[
+				"upload",
+				"uploader"
+			],
+			[
+				"$locatio",
+				"$locationProvider\tAngularJS"
+			],
+			[
+				"$sc",
+				"$scope\tAngularJS"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"contro",
+				"controller12.js"
+			],
+			[
+				"AN",
+				"angular-route.min.js"
+			],
+			[
+				"rout",
+				"$routeParams\tAngularJS"
+			],
+			[
+				"ngv",
+				"ng-view\tAngularJS"
+			],
+			[
+				"$rou",
+				"$routeParams\tAngularJS"
+			],
+			[
+				"an",
+				"angular-route.min.js.map"
+			],
+			[
+				"angu",
+				"angular-route.min.js"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"contr",
+				"controller\tAngularJS"
+			],
+			[
+				"fac",
+				"factory\tAngular.js"
+			],
+			[
+				"gly",
+				"glyphicons-pen\tglyphicons-pen"
+			],
+			[
+				"gl",
+				"glyphicons-ok\tglyphicons-ok"
+			],
+			[
+				"route",
+				"$route\tAngularJS"
+			],
+			[
+				"angul",
+				"angular.bootstrap"
+			],
+			[
+				"ng",
+				"ng-click\tAngularJS"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"bs3-al",
+				"bs3-alert:success\tbs3-alert-success"
+			],
+			[
+				"ro",
+				"$route\tAngularJS"
+			],
+			[
+				"bs3aler",
+				"bs3-alert:danger\tbs3-alert-danger"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"ng-d",
+				"ng-disabled\tAngularJS"
+			],
+			[
+				"ngd",
+				"ng-disabled\tAngularJS"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nA File Icon\n-----------\n\n  # A File Icon 3.2.2\n  \n  New release!\n  \n  Please see `Tools → Packages → A File Icon → Changelog` for more info about \n  the release.\n  \n  ***\n  \n  Please reinstall package if you have some problems with upgrade.\n  Such issues will be fixed with the 4.0.0 version.\n  Finally I have some free time to continue work on it.\n",
+			"settings":
+			{
+				"buffer_size": 400,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 341.0,
+		"last_filter": "comme",
+		"selected_items":
+		[
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"to",
+				"Toggle Comment"
+			],
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"set theme",
+				"UI: Select Theme"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Set theme",
+				"UI: Select Theme"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"UI",
+				"UI: Select Theme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"setcs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"reindei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"co",
+				"Toggle Comment"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"toggl",
+				"Toggle Comment"
+			],
+			[
+				"setp",
+				"Set Syntax: PHP"
+			],
+			[
+				"setjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"min",
+				"Minify::Default File Settings"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"REI",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rie",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"reide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reid",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reiden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"seth",
+				"Set Syntax: HTML"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"glyp",
+				"Snippet: bs3-icon-glyphicon"
+			],
+			[
+				"gly",
+				"Snippet: bs3-icon-glyphicon"
+			],
+			[
+				"r",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"e",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"index",
+				"AngularJS: Rebuild Search Index"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"innde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"sethtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"bs3-html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bs3-moda",
+				"Snippet: bs3-modal"
+			],
+			[
+				"html5",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"bs3-nav",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"nav",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"reidne",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"css",
+				"CSS Completions: Prune Cache"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"try",
+				"Snippet: Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"reidn",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"navbar-de",
+				"Snippet: bs3-navbar-fixed-bottom"
+			],
+			[
+				"navfi",
+				"Snippet: bs3-navbar-fixed-top"
+			],
+			[
+				"bs3-btnd",
+				"Snippet: bs3-button-danger"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"bs3bt",
+				"Snippet: bs3-button-danger"
+			],
+			[
+				"bs3-htm",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git cm",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"bs",
+				"Snippet: bs3-sm-button-danger"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 664.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"git status",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/Sites/Rafael(Boxe)/static"
+	],
+	"file_history":
+	[
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Javascript/Library/index.html",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Javascript/Library/Greetr.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Javascript/Library/app.js",
+		"/C/Users/Thiago/Desktop/index.html",
+		"/C/Users/Thiago/Desktop/script.js",
+		"/C/Users/Thiago/Downloads/Cria e Insere.sql",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/css/style.css",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/admin/controller/loginController.js",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/admin/painel.php",
+		"/C/xampp/htdocs/api/index.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/admin/index.php",
+		"/C/Program Files/Bamboo/conf/server.xml",
+		"/C/fisheyecrucible/config.xml",
+		"/C/data/config.xml",
+		"/C/Users/Thiago/mercurial.ini",
+		"/C/Program Files/Atlassian/Confluence/confluence/WEB-INF/web.xml",
+		"/C/Program Files/Atlassian/Confluence/confluence/WEB-INF/server-config.wsdd",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/admin/includes/menu.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/admin/controller/eventosController.js",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/css/bootstrap.css",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/admin/includes/header.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/includes/stylesheet.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/includes/scripts.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/js/toastr.min.js",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/js/toastr.min.css",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/admin/includes/scripts.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/js/bootstrap.js",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/index.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/rsvp.php",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/node-tests/spies/db.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/node-tests/spies/app.test.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/node-tests/spies/app.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/node-tests/utils/utils.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/node-tests/utils/utils.test.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/node-tests/server/server.js",
+		"/C/Users/Thiago/Dropbox/Anotações Cursos/Node/node-tests/server/server.test.js",
+		"/C/Users/Thiago/Dropbox/Site Moura/Moura Website/mail.js",
+		"/C/Users/Thiago/Dropbox/Site Moura/Moura Website/views/home.hbs",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Thiago/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/js/controller/rsvpController.js",
+		"/C/Program Files/Microsoft VS Code/resources/app/extensions/html/server/node_modules/vscode-html-languageservice/lib/beautify/beautify.js",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/js/controller/eventosController.js",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/admin/teste.php",
+		"/C/xampp/htdocs/Sites/Objetos/js/tipoController.js",
+		"/C/xampp/htdocs/Sites/Objetos/js/buscaController.js",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/api/index.php",
+		"/C/xampp/htdocs/Sites/Objetos/includes/include_scripts.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/api/Db.class.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/admin/painel/index.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/contato.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/includes/footer.php",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/includes/header.php",
+		"/C/Users/Thiago/Desktop/log.html",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/teste.html",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/css/bootstrap-theme.css",
+		"/C/xampp/htdocs/Sites/Cintia/public_html/js/jquery.fittext.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/controller/cardapioController.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/usuario/usercheckout.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/index.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/controller/login.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/usuario/index.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/config.xml",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/app.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/usuario/userinfo.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/usuario/userMesa.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/usuario/useradditem.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/usuario/useravaliacao.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/usuario/usercart.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/administrador/admineditaritem.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/administrador/admininfo.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/administrador/adminpedidos.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/administrador/adminhome.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/administrador/admincontasolicitadas.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/administrador/admincardapio.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/administrador/adminadditem.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/administrador/adminavaliacao.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/controller/pedidoController.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/controller/carrinhoController.js",
+		"/C/xampp/htdocs/api/Db.class.php",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/controller/avaliacaoController.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/usuario/usercardapio.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/angular1.5.6.min.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/css/style.css",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/controller/restauranteController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/api/index.php",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/controller/mainController.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/administrador/index.html",
+		"/C/Users/Thiago/Dropbox/Projetos Freela/Gabriela - PhoneGap/phonegap/Cardapio/www/js/controller/login.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/loginController.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/checkoutController.js",
+		"/C/xampp/htdocs/api/test.php",
+		"/C/xampp/htdocs/phonegap/Cardapio/platforms/browser/platform_www/cordova.js",
+		"/C/Users/Thiago/Dropbox/Site Moura/Moura Website/public/assets/js/scripts.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/testForm.html",
+		"/C/xampp/htdocs/api/testUpload.php",
+		"/C/xampp/htdocs/phonegap/Cardapio/testUpload.php",
+		"/C/xampp/htdocs/phonegap/Cardapio/platforms/browser/www/js/controller/cardapioController.js",
+		"/C/Users/Thiago/Desktop/Astah7/Crack/astah-pro.jar",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/administrador/adminperfil.html",
+		"/C/xampp/htdocs/GerenciamentoObjetos/cadastrarObjeto.php",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/organizadoraController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/objetoController.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/platforms/browser/css/index.css",
+		"/C/Users/Thiago/Dropbox/Projetos Freela/Gabriela - PhoneGap/phonegap/Cardapio/www/usuario/useravaliacao.html",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/controller/perfilController.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/gerenciarResponsaveis.php",
+		"/C/Users/Thiago/Dropbox/Site Moura/Moura Website/server.js",
+		"/C/xampp/htdocs/api/image.php",
+		"/C/xampp/htdocs/api/cadastrarRestaurante.php",
+		"/C/xampp/php/php.ini",
+		"/C/Users/Thiago/Downloads/jQuery-File-Upload-9.19.0/basic.html",
+		"/C/Users/Thiago/Downloads/jQuery-File-Upload-9.19.0/server/php/files/.htaccess",
+		"/C/Users/Thiago/Downloads/jQuery-File-Upload-9.19.0/server/php/UploadHandler.php",
+		"/C/Users/Thiago/Downloads/jQuery-File-Upload-9.19.0/server/php/index.php",
+		"/C/Users/Thiago/Downloads/jQuery-File-Upload-9.19.0/test/test.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/controller/imagemController.js",
+		"/C/Users/Thiago/Dropbox/Site Moura/Moura Website/public/assets/css/style.min.css",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/controller/restauranteController2.js",
+		"/C/Users/Thiago/Downloads/ng-file-upload-bower-12.2.13/FileAPI.js",
+		"/C/xampp/htdocs/GerenciamentoObjetos/js/imagemController.js",
+		"/C/xampp/htdocs/api/.htaccess",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/api/index.php",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/api/Db.class.php",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/index.js",
+		"/C/xampp/htdocs/phonegap/Cardapio/www/js/jquery.mobile-1.4.5.min.js",
+		"/C/xampp/htdocs/cart/scripts/services/multiitemloader.js",
+		"/C/xampp/htdocs/cart/scripts/services/item.js"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"setl",
+			"element",
+			"this",
+			"Greeter",
+			"form",
+			"getElementByID",
+			"userCtrl",
+			"form",
+			".value",
+			"password",
+			"confirm_password",
+			"3",
+			"4",
+			"3",
+			"eventos",
+			"objEvento",
+			"senha",
+			"usuario",
+			"toastr",
+			"40px",
+			"admin",
+			"> .header-bar",
+			"id",
+			"cadastrarEvento",
+			"teste",
+			"myEdit",
+			"myModal",
+			"button",
+			"ng-click=\"submeter()\"",
+			"submit",
+			"NOME",
+			"nomeCategoria",
+			"edita",
+			"tipoOb",
+			"tipo",
+			"cadastrarEvento",
+			"mymoda",
+			"$id",
+			"contatos",
+			"index",
+			"responsaveis",
+			"busca",
+			"get",
+			"ng-ini",
+			"danger",
+			"modal",
+			"cadas",
+			"nomeEvento",
+			"myModal",
+			"nomeEvento",
+			"myModal",
+			"nome",
+			"myModal",
+			"modal",
+			"modalEvento",
+			"email",
+			"span",
+			"ola",
+			"alert(\"ola\");",
+			"ola",
+			"item",
+			"$index",
+			"id",
+			"IDCONTATO",
+			"idcontato",
+			"idContato",
+			"nome",
+			"Nome",
+			"nome",
+			"button",
+			"modal-id",
+			"evento",
+			"nome",
+			"nomeEvento",
+			"usuario",
+			"form",
+			"nomeEvento",
+			"nome",
+			"listarEventos",
+			"teste",
+			"nomeCategoria",
+			"contatos",
+			"lsitar",
+			"i",
+			"fa-2x",
+			"0",
+			":hover",
+			"180deg",
+			"rotateY",
+			"transform",
+			"favico",
+			"4",
+			"<div class=\"flipper\">",
+			"well",
+			"font-family",
+			"<img src=\"images/girl.png\" alt=\"\">",
+			"ontouchstart=\"this.classList.toggle('hover');\"",
+			"well",
+			"<div class=\"col-sm-12 col-md-4 well\">\n\t\t\t\t\t<div class=\"flip-container\" ontouchstart=\"this.classList.toggle('hover');\">\n\t\t\t\t\t\t<div class=\"flipper\">\n\t\t\t\t\t\t\t<div class=\"front\">\n\t\t\t\t\t\t\t\tFesta de 15 anos\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t\t<div class=\"back\">\n\t\t\t\t\t\t\t\t<!-- back content -->\n\t\t\t\t\t\t\t\tteste\n\t\t\t\t\t\t\t</div>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>",
+			"<div class=\"col-sm-12 col-md-4\">",
+			"<div class=\"well\">\n\t\t\t\t\t\t<div class=\"card\">\n\t\t\t\t\t\t\tFesta de 15 anos\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>",
+			"servico",
+			"lg",
+			"-2",
+			"2",
+			"xs",
+			"md",
+			"url",
+			"form",
+			"confirmar",
+			"ng-model=\"checkDiagUsage\"",
+			"ng-click=\"checkDiagUsage = true \"",
+			"primary",
+			"default",
+			"danger",
+			"success",
+			"left",
+			"checkbox",
+			"family",
+			"Oswald",
+			"lg",
+			"container",
+			"12",
+			"lg",
+			"col-md-6",
+			"col-xs-12 ",
+			"well",
+			"lead"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								400,
+								400
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "boxe gaucho.sublime-project",
+	"replace":
+	{
+		"height": 53.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sty",
+				"Cintia\\public_html\\css\\style.css"
+			],
+			[
+				"st",
+				"Cintia\\public_html\\css\\style.css"
+			],
+			[
+				"bos",
+				"Cintia\\public_html\\css\\bootstrap.css"
+			],
+			[
+				"eve",
+				"Cintia\\public_html\\admin\\controller\\eventosController.js"
+			],
+			[
+				"control",
+				"Cintia\\public_html\\admin\\controller\\eventosController.js"
+			],
+			[
+				"painel",
+				"Cintia\\public_html\\admin\\painel.php"
+			],
+			[
+				"rsv",
+				"Cintia\\public_html\\rsvp.php"
+			],
+			[
+				"pa",
+				"Cintia\\public_html\\admin\\painel.php"
+			],
+			[
+				"rs",
+				"public_html\\rsvp.php"
+			],
+			[
+				"boo",
+				"public_html\\css\\bootstrap.css"
+			],
+			[
+				"conta",
+				"public_html\\contato.php"
+			],
+			[
+				"head",
+				"public_html\\includes\\header.php"
+			],
+			[
+				"foo",
+				"public_html\\includes\\footer.php"
+			],
+			[
+				"boos",
+				"public_html\\css\\bootstrap.css"
+			],
+			[
+				"bo",
+				"public_html\\css\\bootstrap.css"
+			],
+			[
+				"user",
+				"Cardapio\\www\\usuario\\usercheckout.html"
+			],
+			[
+				"peid",
+				"Cardapio\\www\\js\\controller\\pedidoController.js"
+			],
+			[
+				"adminc",
+				"Cardapio\\www\\administrador\\admincontasolicitadas.html"
+			],
+			[
+				"pedido",
+				"Cardapio\\www\\js\\controller\\pedidoController.js"
+			],
+			[
+				"admin",
+				"Cardapio\\www\\administrador\\admincontasolicitadas.html"
+			],
+			[
+				"admihom",
+				"Cardapio\\www\\administrador\\adminhome.html"
+			],
+			[
+				"pedd",
+				"Cardapio\\www\\js\\controller\\pedidoController.js"
+			],
+			[
+				"adminpe",
+				"Cardapio\\www\\administrador\\adminpedidos.html"
+			],
+			[
+				"adminconta",
+				"Cardapio\\www\\administrador\\admincontasolicitadas.html"
+			],
+			[
+				"adminped",
+				"Cardapio\\www\\administrador\\adminpedidos.html"
+			],
+			[
+				"admincon",
+				"Cardapio\\www\\administrador\\admincontasolicitadas.html"
+			],
+			[
+				"ped",
+				"Cardapio\\www\\js\\controller\\pedidoController.js"
+			],
+			[
+				"resta",
+				"Cardapio\\www\\js\\controller\\restauranteController.js"
+			],
+			[
+				"userin",
+				"Cardapio\\www\\usuario\\userinfo.html"
+			],
+			[
+				"userche",
+				"Cardapio\\www\\usuario\\usercheckout.html"
+			],
+			[
+				"userm",
+				"Cardapio\\www\\usuario\\userMesa.html"
+			],
+			[
+				"main",
+				"Cardapio\\www\\js\\controller\\mainController.js"
+			],
+			[
+				"carr",
+				"Cardapio\\www\\js\\controller\\carrinhoController.js"
+			],
+			[
+				"mes",
+				"Cardapio\\www\\usuario\\userMesa.html"
+			],
+			[
+				"usermesa",
+				"Cardapio\\www\\usuario\\userMesa.html"
+			],
+			[
+				"pedi",
+				"Cardapio\\www\\js\\controller\\pedidoController.js"
+			],
+			[
+				"ma",
+				"Cardapio\\www\\js\\controller\\mainController.js"
+			],
+			[
+				"logi",
+				"Cardapio\\www\\js\\controller\\login.js"
+			],
+			[
+				"check",
+				"Cardapio\\www\\usuario\\usercheckout.html"
+			],
+			[
+				"",
+				"Cardapio\\www\\js\\controller\\pedidoController.js"
+			],
+			[
+				"login",
+				"Cardapio\\www\\js\\controller\\login.js"
+			],
+			[
+				"userca",
+				"Cardapio\\www\\usuario\\usercardapio.html"
+			],
+			[
+				"app",
+				"Cardapio\\www\\js\\app.js"
+			],
+			[
+				"usera",
+				"Cardapio\\www\\usuario\\useravaliacao.html"
+			],
+			[
+				"config",
+				"Cardapio\\config.xml"
+			],
+			[
+				"co",
+				"Cardapio\\config.xml"
+			],
+			[
+				"use",
+				"Cardapio\\www\\usuario\\usercheckout.html"
+			],
+			[
+				"carda",
+				"Cardapio\\www\\js\\controller\\cardapioController.js"
+			],
+			[
+				"admine",
+				"Cardapio\\www\\administrador\\admineditaritem.html"
+			],
+			[
+				"adminhome",
+				"Cardapio\\www\\administrador\\adminhome.html"
+			],
+			[
+				"checko",
+				"Cardapio\\www\\usuario\\usercheckout.html"
+			],
+			[
+				"carrin",
+				"Cardapio\\www\\js\\controller\\carrinhoController.js"
+			],
+			[
+				"admina",
+				"Cardapio\\www\\administrador\\adminavaliacao.html"
+			],
+			[
+				"adminho",
+				"Cardapio\\www\\administrador\\adminhome.html"
+			],
+			[
+				"pe",
+				"Cardapio\\www\\js\\controller\\pedidoController.js"
+			],
+			[
+				"userch",
+				"Cardapio\\www\\usuario\\usercheckout.html"
+			],
+			[
+				"cor",
+				"Cardapio\\platforms\\browser\\platform_www\\cordova.js"
+			],
+			[
+				"carri",
+				"Cardapio\\www\\js\\controller\\carrinhoController.js"
+			],
+			[
+				"usercar",
+				"Cardapio\\www\\usuario\\usercart.html"
+			],
+			[
+				"useradd",
+				"Cardapio\\www\\usuario\\useradditem.html"
+			],
+			[
+				"avalia",
+				"Cardapio\\www\\js\\controller\\avaliacaoController.js"
+			],
+			[
+				"ca",
+				"Cardapio\\www\\js\\controller\\cardapioController.js"
+			],
+			[
+				"additem",
+				"Cardapio\\www\\administrador\\adminadditem.html"
+			],
+			[
+				"editar",
+				"Cardapio\\www\\administrador\\admineditaritem.html"
+			],
+			[
+				"car",
+				"Cardapio\\www\\js\\controller\\cardapioController.js"
+			],
+			[
+				"userad",
+				"Cardapio\\www\\usuario\\useradditem.html"
+			],
+			[
+				"adm",
+				"Cardapio\\www\\administrador\\admincardapio.html"
+			],
+			[
+				"cardap",
+				"Cardapio\\www\\js\\controller\\cardapioController.js"
+			],
+			[
+				"userav",
+				"Cardapio\\www\\usuario\\useravaliacao.html"
+			],
+			[
+				"lgin",
+				"GerenciamentoObjetos\\js\\loginController.js"
+			],
+			[
+				"adminperfil",
+				"Cardapio\\www\\administrador\\adminperfil.html"
+			],
+			[
+				"addi",
+				"Cardapio\\www\\administrador\\adminadditem.html"
+			],
+			[
+				"adminin",
+				"Cardapio\\www\\administrador\\admininfo.html"
+			],
+			[
+				"cad",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"cadas",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"iamge",
+				"GerenciamentoObjetos\\js\\imagemController.js"
+			],
+			[
+				"userinf",
+				"Cardapio\\www\\usuario\\userinfo.html"
+			],
+			[
+				"admininfo",
+				"Cardapio\\www\\administrador\\admininfo.html"
+			],
+			[
+				"inde",
+				"Cardapio\\www\\index.html"
+			],
+			[
+				"admininf",
+				"Cardapio\\www\\administrador\\admininfo.html"
+			],
+			[
+				"igno",
+				".ignore"
+			],
+			[
+				"objeto",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"o",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"ob",
+				"GerenciamentoObjetos\\objeto.php"
+			],
+			[
+				"contro",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"ima",
+				"GerenciamentoObjetos\\js\\imagemController.js"
+			],
+			[
+				"moda",
+				"GerenciamentoObjetos\\includes\\modalCadastrarContato.php"
+			],
+			[
+				"tio",
+				"GerenciamentoObjetos\\js\\tipoController.js"
+			],
+			[
+				"geretipo",
+				"GerenciamentoObjetos\\tipoObjeto.php"
+			],
+			[
+				"res",
+				"GerenciamentoObjetos\\js\\responsavelController.js"
+			],
+			[
+				"obje",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"cadastrar",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"orga",
+				"GerenciamentoObjetos\\js\\organizadoraController.js"
+			],
+			[
+				"busc",
+				"GerenciamentoObjetos\\js\\buscaController.js"
+			],
+			[
+				"txt",
+				"GerenciamentoObjetos\\modalObjetos.txt"
+			],
+			[
+				"gere",
+				"GerenciamentoObjetos\\gerenciarOrganizadoras.php"
+			],
+			[
+				"busca",
+				"GerenciamentoObjetos\\js\\buscaController.js"
+			],
+			[
+				"image",
+				"GerenciamentoObjetos\\js\\imagemController.js"
+			],
+			[
+				"boot",
+				"GerenciamentoObjetos\\css\\bootstrap.css"
+			],
+			[
+				"organi",
+				"GerenciamentoObjetos\\js\\organizadoraController.js"
+			],
+			[
+				"tipocon",
+				"GerenciamentoObjetos\\js\\tipoController.js"
+			],
+			[
+				"tipocontro",
+				"GerenciamentoObjetos\\js\\tipoController.js"
+			],
+			[
+				"tipo",
+				"GerenciamentoObjetos\\js\\tipoController.js"
+			],
+			[
+				"respo",
+				"GerenciamentoObjetos\\js\\responsavelController.js"
+			],
+			[
+				"obe",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"objetocon",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"cas",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"edita",
+				"GerenciamentoObjetos\\EditarObjeto.php"
+			],
+			[
+				"cada",
+				"GerenciamentoObjetos\\cadastrarResponsavel.php"
+			],
+			[
+				"objcon",
+				"GerenciamentoObjetos\\js\\objetoController.js"
+			],
+			[
+				"ver",
+				"projetopraticoAngularJS\\verNoticia.php"
+			],
+			[
+				"teste",
+				"GerenciamentoObjetos\\teste.html"
+			],
+			[
+				"inc",
+				"GerenciamentoObjetos\\includes\\include_scripts.php"
+			],
+			[
+				"tes",
+				"GerenciamentoObjetos\\teste.html"
+			],
+			[
+				"usu",
+				"GerenciamentoObjetos\\gerenciarUsuarios.php"
+			],
+			[
+				"bus",
+				"GerenciamentoObjetos\\js\\buscaController.js"
+			],
+			[
+				"ind",
+				"GerenciamentoObjetos\\index.php"
+			],
+			[
+				"menu",
+				"GerenciamentoObjetos\\includes\\menu_admin.php"
+			],
+			[
+				"cadastr",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"geren",
+				"GerenciamentoObjetos\\gerenciarUsuarios.php"
+			],
+			[
+				"gereu",
+				"GerenciamentoObjetos\\gerenciarUsuarios.php"
+			],
+			[
+				"re",
+				"GerenciamentoObjetos\\js\\responsavelController.js"
+			],
+			[
+				"he",
+				"GerenciamentoObjetos\\includes\\header.php"
+			],
+			[
+				"includ",
+				"GerenciamentoObjetos\\includes\\header.php"
+			],
+			[
+				"an",
+				"js\\angularScript.js"
+			],
+			[
+				"a",
+				"projetopraticoAngularJS\\servidorchat\\app.js"
+			],
+			[
+				"cadsa",
+				"GerenciamentoObjetos\\cadastrarObjeto.php"
+			],
+			[
+				"men",
+				"GerenciamentoObjetos\\includes\\menu_admin.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
