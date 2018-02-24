@@ -4,6 +4,28 @@ body {
 	background-color: #e8e8e9;
 }
 
+h3.title {
+	font-family:'Oxygen', sans-serif;
+	font-size: 20px;
+	font-weight: bolder;
+	letter-spacing: 1px;
+	line-height: 25px;
+	color: #353232;
+	margin: 30px 0;
+}
+
+p {
+	font-size: 14px;
+	text-indent: 20px;
+	margin-bottom: 20px;
+}
+
+p::first-letter {
+	font-size: 24px;
+	font-weight: 900;
+}
+
+/****** Header ********/
 .header{
 	display: block;
 	width: 100%;
@@ -46,5 +68,125 @@ body {
 	margin-top: 30px;
 }
 
+/*--------- News ------------ */
+.news-description {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	line-height: 25px;
+	letter-spacing: 0.2px;
+	text-align: justify;
+	color: #353232;
+	margin-bottom: 10px;
+}
 
+.lastNews-bg {
+	background: #d1d1d1;
+	padding: 10px 10px;
+	width: 100%;
+	display: inline-block;
+}
 
+.lastNews-box {
+	background: #e7e7e7;
+	padding: 10px;
+	margin: 10px;
+}
+
+.lastNews-img {
+	display: inline-block;
+}
+
+.lastNews-description {
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	color: #353232;
+}
+
+.lastNews-description a {
+	color:  #353232;
+	text-decoration: none;
+}
+
+.lastNews-description a:hover{
+	color: red;
+}
+
+.centerButtonLastNews {
+	margin-right: -10px;
+	margin-bottom: -10px !important;
+	display: table;
+	float: right;
+}
+
+/*----------- Btn ----------------*/
+.btn-black {
+  color: #fff;
+  background-color: #000000;
+  border-color: #131313;
+  text-transform: uppercase;
+}
+.btn-black:focus,
+.btn-black.focus {
+  color: #fff;
+  background-color: #353333;
+  border-color: #272424;
+  margin-right: 2px;
+}
+.btn-black:hover {
+  color: #fff;
+  background-color: #353333;
+  border-color: #353131;
+  margin-right: 2px;
+}
+.btn-black:active,
+.btn-black.active,
+.open > .dropdown-toggle.btn-black {
+  color: #fff;
+  background-color: #353333;
+  border-color: #353131;
+  margin-right: 2px;
+}
+.btn-black:active:hover,
+.btn-black.active:hover,
+.open > .dropdown-toggle.btn-black:hover,
+.btn-black:active:focus,
+.btn-black.active:focus,
+.open > .dropdown-toggle.btn-black:focus,
+.btn-black:active.focus,
+.btn-black.active.focus,
+.open > .dropdown-toggle.btn-black.focus {
+  color: #fff;
+  background-color: #353131;
+  border-color: #272424;
+}
+.btn-black:active,
+.btn-black.active,
+.open > .dropdown-toggle.btn-black {
+  background-image: none;
+}
+.btn-black.disabled,
+.btn-black[disabled],
+fieldset[disabled] .btn-black,
+.btn-black.disabled:hover,
+.btn-black[disabled]:hover,
+fieldset[disabled] .btn-black:hover,
+.btn-black.disabled:focus,
+.btn-black[disabled]:focus,
+fieldset[disabled] .btn-black:focus,
+.btn-black.disabled.focus,
+.btn-black[disabled].focus,
+fieldset[disabled] .btn-black.focus,
+.btn-black.disabled:active,
+.btn-black[disabled]:active,
+fieldset[disabled] .btn-black:active,
+.btn-black.disabled.active,
+.btn-black[disabled].active,
+fieldset[disabled] .btn-black.active {
+  background-color: #000000;
+  border-color: #131313;
+}
+.btn-black .badge {
+  color: #000000;
+  background-color: #fff;
+}
