@@ -20,6 +20,10 @@ p {
 	margin-bottom: 20px;
 }
 
+.clearfix {
+	clear: both;
+}
+
 p::first-letter {
 	font-size: 24px;
 	font-weight: 900;
@@ -35,6 +39,21 @@ p::first-letter {
     margin-top: 5%;
 }
 
+footer {
+	background: #fff;
+	height: 120px;
+	margin: 0;
+	padding: 0;
+}
+
+footer p {
+	font-size: 10px;
+}
+
+footer p::first-letter {
+	font-size: 10px;
+}
+
 /****** Header ********/
 .header{
 	display: block;
@@ -45,6 +64,17 @@ p::first-letter {
 
 .mainMenu {
 	margin-top: -62px;
+}
+
+/* ------ Sponsors ------ */
+
+.sponsors a {
+	text-decoration: none;
+}
+
+.sponsors a img {
+	height: 48px;
+	margin: 15px;
 }
 
 /* Region of flag of Rio Grande do Sul*/
@@ -173,6 +203,7 @@ ul#latestNew li a img {
 	border-right: 5px solid #d6aa28;
 	display: table;
     width: 100%;
+    margin: 10px 0;
 }
 
 .latestHeader {
@@ -308,4 +339,53 @@ fieldset[disabled] .btn-black.active {
   background-color: #fff;
 }
 
+/** ------- Form Section -------------- */
+label {
+	font-family: "Roboto", sans-serif;
+	margin-left: 2px;
+}
 
+label span {
+	color: #CC0A13;
+	font-weight: 900;
+}
+
+form.contato{
+	border: 1px solid #d3d3d3;
+    padding: 15px;
+    border-radius: 5%;
+    display: inline-block;
+    width: 100%;
+    background: #f0f0f1;
+    margin-bottom: 30px;
+}
+
+.address {
+	width: 100%;
+	height: 750px;
+	display: table;
+}
+
+.address-desc {
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+/** ---- Default page layout -------------- */
+.page-content {
+	line-height: 25px;
+    letter-spacing: 0.2px;
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+/** ---- Media Query ------------ */
+
+@media (max-width: 768px) {
+	.address {
+    height: 250px;
+    margin-bottom: 30px;
+  }
+}

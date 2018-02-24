@@ -54,13 +54,13 @@
 								<!-- Collect the nav links, forms, and other content for toggling -->
 								<div class="collapse navbar-collapse navbar-ex1-collapse">
 									<ul class="nav navbar-nav">
-										<li class="active"><a href="#">INICIAL</a></li>
+										<li><a href="#">INICIAL</a></li>
 										<li><a href="#">A FGBoxe</a></li>
 										<li><a href="#">TREINADORES</a></li>
 										<li><a href="#">BOXE</a></li>
 										<li><a href="#">RANKING</a></li>
 										<li><a href="#">NOTÍCIAS</a></li>
-										<li><a href="#">CONTATO</a></li>
+										<li class="active"><a href="#">CONTATO</a></li>
 									</ul>
 								</div><!-- /.navbar-collapse -->
 						</nav>
@@ -75,92 +75,79 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12 col-md-6">
-				<main class="news">
-					<h3 class="title text-center">Federação Gaúcha de Boxe</h3>
-					<div class="news-description">
-						<p>
-							Desde a medalha de Bronze conquistada nos Jogos Olímpicos do México, em 1968, o Boxe do Brasil amargava um ostracismo indigno na modalidade. Esse vácuo durou quarenta anos, período em que não conseguimos sequer figurar entre as 40 melhores equipes do mundo. Essa realidade precisava ser modificada.
-						</p>
-						<p>
-							Em pouco tempo, o Boxe do Brasil pulou para o Top 10 em Campeonatos Mundiais. Em apenas duas edições de Jogos Olímpicos conquistamos quatro medalhas olímpicas. Entre 2009 e 2011 subimos três vezes no lugar mais alto do pódio nos mundiais Feminino, Juvenil e Masculino Elite. Entre 2009 e 2015 foram 9 as medalhas conquistadas em Campeonatos Mundiais.
-						</p>
-					</div>
-					<button type="button" class="btn btn-black pull-right">Saiba Mais...</button>
+				<main class="contato">
+					<h3 class="title text-center">Entre em contato</h3>
+					<p class="text-center">Preencha o forumulário abaixo com os dados <strong>*</strong> obrigatórios:</p>
+					<form class="contato">
+						<div class="form-group">
+							<label for="nomeCompleto"><span>*</span> Nome</label>
+							<input type="text" class="form-control" id="nomeCompleto" name="nomes" placeholder="Seu Nome">
+						</div>
+						<div class="form-group">
+							<label for="emailAddress"><span>*</span> Email</label>
+							<input type="email" class="form-control" id="emailAddress" name="email" placeholder="Email">
+						</div>
+						<div class="addressInfo form-inline">
+							<div class="form-group">
+								<label for="cidade">Cidade</label><br>
+								<input type="text" class="form-control" id="cidade" name="cidade" placeholder="Email">
+							</div>
+							<div class="form-group">
+								<label for="UF">Estado</label><br>
+								<select name="uf" id="UF" class="form-control">
+									<option value="AC">Acre</option>
+									<option value="AL">Alagoas</option>
+									<option value="AP">Amapá</option>
+									<option value="AM">Amazonas</option>
+									<option value="BA">Bahia</option>
+									<option value="CE">Ceará</option>
+									<option value="DF">Distrito Federal</option>
+									<option value="ES">Espírito Santo</option>
+									<option value="GO">Goiás</option>
+									<option value="MA">Maranhão</option>
+									<option value="MT">Mato Grosso</option>
+									<option value="MS">Mato Grosso do Sul</option>
+									<option value="MG">Minas Gerais</option>
+									<option value="PA">Pará</option>
+									<option value="PB">Paraíba</option>
+									<option value="PR">Paraná</option>
+									<option value="PE">Pernambuco</option>
+									<option value="PI">Piauí</option>
+									<option value="RJ">Rio de Janeiro</option>
+									<option value="RN">Rio Grande do Norte</option>
+									<option value="RS" selected>Rio Grande do Sul</option>
+									<option value="RO">Rondônia</option>
+									<option value="RR">Roraima</option>
+									<option value="SC">Santa Catarina</option>
+									<option value="SP">São Paulo</option>
+									<option value="SE">Sergipe</option>
+									<option value="TO">Tocantins</option>
+								</select>
+							</div><!--uf -->
+						</div><!-- inline address--> <br>
+						<div class="form-group clearfix">
+							<label for="Assunto"><span>*</span> Assunto</label>
+							<input type="text" class="form-control" id="Assunto" name="assunto" placeholder="Assunto">
+						</div>
+						<div class="form-group">
+							<label for="mensagem"><span>*</span> Mensagem</label>
+							<textarea name="mensagem" id="mensagem" rows="5" class="form-control" placeholder="Descreva o motivo do seu contato."></textarea>
+						</div>
+						<button type="submit" class="btn btn-black pull-left">Enviar</button>
+					</form>
 				</main>
 			</div>
 			<div class="col-xs-12 col-md-6">
 				<!-- últimas notícias -->
-				<aside class="lastNews">
-					<div class="row">
-						<h3 class="title pull-left">Últimas Notícias:</h3>
+				<aside class="address">
+					<div class="address-desc">
+						<h3 class="title text-center">CETE – Centro Estadual de Treinamento Esportivo</h3>
+						<p>Rua Gonçalves Dias 700, Bairro Menido Deus/POA – CEP 90130-60 </p>
+						<p>Whatsapp 51 984224400</p>
 					</div>
-					<div class="lastNews-bg">
-						<ul id="latestNews">
-							<li>
-								<a href="#">
-									<img src="assets/img/news2.jpg" alt="Lutadores" class="news-picture">
-									<span>Beatriz Ferreira vence medalhista olímpica e vai para a final na Bulgária [...]</span>
-								</a>
-							</li>
-							<li>
-								<a href="">
-									<img src="assets/img/news3.jpg" alt="Lutadores" class="news-picture">
-									<span>Mais um dia de vitórias no Torneio de Verão de Iquique, realizado no Chile [...]</span>
-								</a>
-							</li>
-							<li>
-								<a href="">
-									<img src="assets/img/capa.jpg" alt="Lutadores" class="news-picture">
-									<span>Os nossos guerreiros já garantiram duas medalhas no 69º Strandja Tournament, que nesta edição levou 259[...]</span>
-								</a>
-							</li>
-						</ul>
-						<div class="centerButtonLastNews">
-							<button type="button" class="btn btn-black pull-right">Mais Notícias...</button>
-						</div>
-					</div> <!-- lastNews-bg -->
 				</aside>
 			</div> <!-- col últimas notícias-->
 		</div><!-- row-->
-		<div class="row" style="margin: 30px 0">
-			<div class="col-xs-12 col-md-6">
-				<div class="latest text-center">
-					<div class="latestHeader">
-						<h3 class="title">Últimos Videos</h3>
-					</div>
-					<div class="col-xs-12 col-md-6">
-						<div class="video">
-							<iframe width="100%" src="https://www.youtube.com/embed/r9-4lUHU6WE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-						</div>
-					</div>
-					<div class=" col-xs-12 col-md-6 outros-videos">
-						<ul>
-							<li><a href="#">
-									<p>Robson Conceição conquista a medalha de prata no Campeonato Mundial de Boxe de 2013[...]</p>
-									<small>12/08/2014,22:15hs</small>
-									<span class="pull-right">Saiba Mais »</span>
-								</a></li>
-							<li><a href="#">
-									<p>Everton Lopes conquista uma honrosa medalha de bronze no Campeonato Mundial de 2013 realizado na cidade de Almaty, Cazaquistão [...]</p>
-									<small>12/08/2014,22:07hs</small>
-									<span class="pull-right">Saiba Mais »</span>
-								</a>
-							</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-md-6">
-				<div class="latest">
-					<div class="latestHeader">
-						<h3 class="title">Últimas Imagens</h3>
-					</div>
-					<div class="images">
-						Usar plugin: https://br.wordpress.org/plugins/wd-instagram-feed/ ou https://br.wordpress.org/plugins/instagram-feed/
-					</div>
-				</div>
-			</div>
-		</div> <!--video/image row-->
 	</div> <!--container -->
 	<footer>
 		<div class="sponsors text-center">
