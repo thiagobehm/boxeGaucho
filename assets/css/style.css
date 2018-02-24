@@ -79,15 +79,6 @@ p::first-letter {
 }
 
 /*--------- News ------------ */
-.news-description {
-	font-family: 'Roboto', sans-serif;
-	font-size: 14px;
-	line-height: 25px;
-	letter-spacing: 0.2px;
-	text-align: justify;
-	color: #353232;
-	margin-bottom: 10px;
-}
 
 .lastNews-bg {
 	background: #d1d1d1;
@@ -96,30 +87,55 @@ p::first-letter {
 	display: inline-block;
 }
 
-.lastNews-box {
-	background: #e7e7e7;
-	padding: 10px;
-	margin: 10px;
+
+ul#latestNews {
+	margin: 0;
+	padding: 0;
 }
 
-.lastNews-img {
-	display: inline-block;
+ul#latestNews li {
+	background: #fefefe;
+	float: left;
+	padding: 2px;
+	list-style: none;
+	width: 100%;
+	margin: 5px 0;
 }
 
-.lastNews-description {
-	display: inline-block;
-	font-family: 'Roboto', sans-serif;
+
+ul#latestNews li a span {
+	display: block;
 	font-size: 14px;
-	color: #353232;
-}
-
-.lastNews-description a {
-	color:  #353232;
+    color: #000;
+    line-height: 9px;
+    padding: 12px 15px;
+    line-height: 20px;
+	margin-left: 40px;
 	text-decoration: underline;
 }
 
-.lastNews-description a:hover{
-	color: red;
+ul#latestNews li a span:hover {
+	color: #ce1720;
+}
+
+ul#latestNew li a img {
+    width: 80px;
+    float: left;
+    margin: 5px 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.news-picture {
+    padding: 5px;
+    margin: 0 10px;
+    background: #FFF;
+    width: 90px;
+    float: left;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
 }
 
 .centerButtonLastNews {
@@ -269,3 +285,5 @@ fieldset[disabled] .btn-black.active {
   color: #000000;
   background-color: #fff;
 }
+
+
