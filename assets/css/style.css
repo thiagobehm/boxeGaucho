@@ -25,12 +25,22 @@ p::first-letter {
 	font-weight: 900;
 }
 
+.hr-vertical {
+	background: url('../img/hr-vertical.png') repeat-y center center;
+	width: 20px;
+    height: 100px;
+    float: left;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5%;
+}
+
 /****** Header ********/
 .header{
 	display: block;
 	width: 100%;
 	height: 125px;
-	background: #e5e6e8;
+	background: #e9e9eb;
 }
 
 .mainMenu {
@@ -65,7 +75,7 @@ p::first-letter {
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: 0 -120px;
-	margin-top: 30px;
+	margin-top: 28px;
 }
 
 /*--------- News ------------ */
@@ -105,7 +115,7 @@ p::first-letter {
 
 .lastNews-description a {
 	color:  #353232;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 .lastNews-description a:hover{
@@ -117,6 +127,75 @@ p::first-letter {
 	margin-bottom: -10px !important;
 	display: table;
 	float: right;
+}
+
+/** ----- latest session ------ */
+.latest {
+	border: 5px solid #cc0a13;
+	border-left: 5px solid #03775b;
+	border-right: 5px solid #d6aa28;
+	display: table;
+    width: 100%;
+}
+
+.latestHeader {
+	background: #000;
+	display: table;
+	width: 100%;
+	height: 45px;
+}
+
+.latestHeader h3.title {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	color: #fff;
+}
+
+.video {
+	display: inline-block;
+	margin-top: 10%;
+}
+
+.outros-videos {
+    float: left;
+    margin-top: 20px;
+}
+
+.outros-videos ul li {
+    list-style: none;
+    border-bottom: 1px solid #d1d1d1;
+    padding-bottom: 10px;
+    margin-top: 5px;
+}
+
+.outros-videos ul li a p {
+    margin: 0;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: justify;
+    text-indent: 0;
+    margin-bottom: 10px;
+    color: #353232;
+}
+
+.outros-videos ul li a p::first-letter {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.outros-videos ul {
+	padding: 0;
+}
+
+.outros-videos ul li a span {
+    font-weight: bolder;
+    color: #0D2D45!important;
+}
+
+.outros-videos ul li a small {
+    font-weight: bolder;
+    color: #0D2D45!important;
 }
 
 /*----------- Btn ----------------*/
